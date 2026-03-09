@@ -6,9 +6,9 @@ public class Akash {
 		// TODO Auto-generated method stub
 		String str = "Samik takes Arka's stick";
 		System.out.println(str);
-		Scanner sc = new Scanner("System.out");
-		int n = sc.nextInt();
-		System.out.println(n);
+		// Scanner sc = new Scanner("System.out");
+		// int n = sc.nextInt();
+		// System.out.println(n);
 	}
 
 }
